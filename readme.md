@@ -35,6 +35,12 @@ Recepedia adalah aplikasi web yang dirancang untuk memberikan pengguna koleksi r
 - Klik pada sebuah resep untuk melihat detailnya, termasuk bahan dan instruksi memasak.
 - Jika tersedia, tonton tutorial YouTube untuk panduan langkah demi langkah.
 
+## Screenshot
+
+Berikut adalah tampilan dari aplikasi:
+
+![Tampilan Aplikasi](assets/ss.png)
+
 ## Kontribusi
 
 Kontribusi sangat diterima! Jika Anda memiliki saran untuk perbaikan atau fitur baru, silakan buat masalah atau kirim permintaan tarik.
